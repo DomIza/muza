@@ -1,3 +1,4 @@
 if __name__ == "__main__":
-    msg = "witaj swiecie"
-    print(msg)
+    msg = "witaj"
+    name = "swiecie"
+    print(msg + " " + name)
